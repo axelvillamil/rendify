@@ -19,7 +19,7 @@ Finder -> Applications -> Adobe After Effects -> Scripts
 
 ```
 tell application "Adobe After Effects CC 2015" -- Change depending on version of After Effects  
-	DoScriptFile of "/Applications/Adobe After Effects CC 2015/Scripts/AErendify.jsx" -- Change depending on path of rendify.jsx script
+	DoScriptFile of "/Applications/Adobe After Effects CC 2015/Scripts/AErendify.jsx" -- Change depending on path of AErendify.jsx script
 end tell
 ```
 
