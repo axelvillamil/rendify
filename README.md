@@ -1,2 +1,8 @@
-# rendify
-After Effects render and notification service for iMessage
+# Rendify
+An After Effects rendering and notification service for iMessage
+
+## Installation
+
+## Usage
+
+Place rendifyError.txt on your desktop
