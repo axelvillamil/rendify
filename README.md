@@ -39,7 +39,7 @@ osascript rendify.scpt
 
 ## Authors
 
-* **Axel Villamil**
+**Axel Villamil** of [Red Label Studios](http://redlabelstudios.com)
 
 ## License
 
