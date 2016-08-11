@@ -13,7 +13,7 @@ An After Effects rendering and notification service using iMessage.
 Finder -> Applications -> Adobe After Effects -> Scripts
 ```
 
-* Update path of AErendify.jsx as well as the and After Effects version in rendify.scpt depending on where you choose to place it
+* Update path of **AErendify.jsx** as well as the and After Effects version in **rendify.scpt** depending on where you choose to place it
 
 ```
 tell application "Adobe After Effects CC 2015" -- Change depending on version of After Effects  
@@ -21,7 +21,7 @@ tell application "Adobe After Effects CC 2015" -- Change depending on version of
 end tell
 ```
 
-* Update path of rendifyError.txt in AErendify.jsx depending on where you choose to place it
+* Update path of **rendifyError.txt** in **AErendify.jsx** depending on where you choose to place it
 
 ```
 var myFileName = "rendifyError.txt";
@@ -29,7 +29,7 @@ var myFilePath = "~/CHANGE/TO/THE/PATH/OF/rendifyError.txt" + escape(myFileName)
 ```
 
 ## Usage
-To run rendify, execute the following command.
+To run **rendify**, execute the following command.
 
 ```
 osascript rendify.scpt
