@@ -6,6 +6,7 @@ An After Effects rendering and notification service using iMessage.
 ## Requirements
 * After Effects
 * iMessage
+* AppleScript Editor
 
 ## Installing
 
