@@ -1,6 +1,8 @@
 # Rendify
 An After Effects rendering and notification service using iMessage.
 
+![alt tag](https://s9.postimg.org/opn6bxhe7/Screen_Shot_2016_08_11_at_4_51_54_AM.png)
+
 ## Requirements
 *After Effects
 *iMessage
