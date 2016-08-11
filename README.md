@@ -36,3 +36,11 @@ To run **rendify**, execute the following command.
 ```
 osascript rendify.scpt
 ```
+
+## Authors
+
+* **Axel Villamil**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
