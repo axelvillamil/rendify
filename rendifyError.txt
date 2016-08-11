@@ -1,0 +1,3 @@
+This will contain the appropriate error code to send an iMessage.
+
+Place this file on your desktop.
