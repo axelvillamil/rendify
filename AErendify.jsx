@@ -22,14 +22,6 @@
 				}
 			}
 			if (!safeToRunScript) {
-				var myFileName = "rendifyError.txt";
-				var myFilePath = "~/desktop/" + escape(myFileName);
-				var myMessage = "0";
-				var myFile = new File(myFilePath);
-				myFile.open("w");
-				myFile.write(myMessage);
-				myFile.close();
-
 				alert("You do not have any items set to render.", scriptName);
 				return;
 			}
