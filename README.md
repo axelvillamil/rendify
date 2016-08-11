@@ -4,8 +4,8 @@ An After Effects rendering and notification service using iMessage.
 ![alt tag](https://s10.postimg.org/rhg861lmh/Screen_Shot_2016_08_11_at_4_51_54_AM.png)
 
 ## Requirements
-*After Effects
-*iMessage
+* After Effects
+* iMessage
 
 ## Installing
 
