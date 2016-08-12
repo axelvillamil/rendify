@@ -16,7 +16,7 @@ An After Effects rendering and notification service using iMessage.
 Finder -> Applications -> Adobe After Effects -> Scripts
 ```
 
-* Update path of **AErendify.jsx** as well as the and After Effects version in **rendify.scpt** depending on where you choose to place it
+* Update to your After Effects version in **rendify.scpt** and update path of **AErendify.jsx** depending where your scripts folder is
 
 ```
 tell application "Adobe After Effects CC 2015" -- Change depending on version of After Effects  
@@ -37,6 +37,15 @@ To run **rendify**, execute the following command.
 ```
 osascript rendify.scpt
 ```
+
+Have at least one item in your rendering queue in After Effects
+
+![alt tag](https://s9.postimg.org/ax1v20l3j/Screen_Shot_2016_08_11_at_9_54_45_PM.png)
+
+Enter your phone number
+
+![alt tag](https://s9.postimg.org/e73dm0lr3/Screen_Shot_2016_08_11_at_9_55_46_PM.png)
+
 
 ## Authors
 
