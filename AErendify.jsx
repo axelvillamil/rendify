@@ -22,6 +22,13 @@
 				}
 			}
 			if (!safeToRunScript) {
+				var myFileName = "rendifyError.txt";
+				var myFilePath = "~/desktop/" + escape(myFileName);
+				var myMessage = "2";
+				var myFile = new File(myFilePath);
+				myFile.open("w");
+				myFile.write(myMessage);
+				myFile.close();
 				alert("You do not have any items set to render.", scriptName);
 				return;
 			}
@@ -31,10 +38,10 @@
 
 			//Creates a shortcut for the Render Queue
 			var myQueue = app.project.renderQueue
-			
+
 			// Start rendering.
 			myQueue.render();
-			alert("Your render is complete and you will be notified via iMessage.");
+
 
 			var myFileName = "rendifyError.txt";
 			var myFilePath = "~/desktop/" + escape(myFileName);
@@ -45,12 +52,6 @@
 			myFile.close();
 
 
-			//for (i=1; i < myQueue.numitems; i++) {
-			//	var currentItem = myQueue.item(i);
-			//	if (currentItem == RQItemStatus.DONE) {
-			//		alert ("Item "+i+" is finished rendering.");
-			//	}
-			//}
 			
 	}
 
