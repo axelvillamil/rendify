@@ -24,7 +24,7 @@ tell application "Adobe After Effects CC 2015" -- Change depending on version of
 end tell
 ```
 
-* Update path of **rendifyError.txt** in **AErendify.jsx** depending on where you choose to place it
+* (Optional) Update path of **rendifyError.txt** in **AErendify.jsx** as it is defaulted to be created on your dektop
 
 ```
 var myFileName = "rendifyError.txt";
