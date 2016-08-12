@@ -44,7 +44,7 @@ Have at least one item in your rendering queue in After Effects
 
 Enter your phone number
 
-![alt tag](https://s9.postimg.org/e73dm0lr3/Screen_Shot_2016_08_11_at_9_55_46_PM.png)
+![alt tag](https://s9.postimg.org/3mkbmqlvj/modal.png)
 
 
 ## Authors
