@@ -32,17 +32,17 @@ var myFilePath = "~/CHANGE/TO/THE/PATH/OF/rendifyError.txt" + escape(myFileName)
 ```
 
 ## Usage
-To run **rendify**, execute the following command.
+1. To run **rendify**, execute the following command.
 
 ```
 osascript rendify.scpt
 ```
 
-Have at least one item in your rendering queue in After Effects
+2. Have at least one item in your rendering queue in After Effects
 
 ![alt tag](https://s9.postimg.org/ax1v20l3j/Screen_Shot_2016_08_11_at_9_54_45_PM.png)
 
-Enter your phone number
+3. Enter your phone number
 
 ![alt tag](https://s9.postimg.org/3mkbmqlvj/modal.png)
 
