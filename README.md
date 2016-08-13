@@ -6,7 +6,6 @@ An After Effects rendering and notification service using iMessage.
 ## Requirements
 * After Effects
 * iMessage/iPhone
-* AppleScript Editor
 
 ## Installing
 
@@ -46,6 +45,9 @@ Enter your phone number
 
 ![alt tag](https://s9.postimg.org/3mkbmqlvj/modal.png)
 
+## Notes
+
+**You must of already sent an iMessage to the specific phone number in order for the script to work**
 
 ## Authors
 
