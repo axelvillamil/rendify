@@ -1,8 +1,6 @@
 # Rendify
 An After Effects rendering and notification service using iMessage.
 
-![alt tag](https://s10.postimg.org/rhg861lmh/Screen_Shot_2016_08_11_at_4_51_54_AM.png)
-
 ## Requirements
 * After Effects
 * iMessage/iPhone
@@ -39,11 +37,7 @@ osascript rendify.scpt
 
 Have at least one item in your rendering queue in After Effects
 
-![alt tag](https://s9.postimg.org/ax1v20l3j/Screen_Shot_2016_08_11_at_9_54_45_PM.png)
-
 Enter your phone number
-
-![alt tag](https://s9.postimg.org/3mkbmqlvj/modal.png)
 
 ## Notes
 
